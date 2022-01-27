@@ -313,6 +313,7 @@ padding: 10px 20px;
     background-color: rgb(251, 253, 251);
     margin-right: 20px;
     margin-left: 10px;
+    padding-bottom: 20px;
 }
 .blog_news img{
     width: 100%;
@@ -323,6 +324,7 @@ padding: 10px 20px;
     margin: 0;
     padding: 0;
     color:rgb(86, 107, 91) ;
+    padding-left: 10px;
 }
 .blog_news p{
     font-family: sans-serif;
@@ -330,6 +332,7 @@ padding: 10px 20px;
    
     color:rgb(86, 107, 91) ;
     margin-bottom: 20px;
+    padding-left: 10px;
 }
 .blog_news a{
     text-decoration: none;
@@ -341,7 +344,7 @@ padding: 10px 20px;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
    
-    
+    padding-left: 10px;
 }
 .footer-logo{
     width: 1000px;
